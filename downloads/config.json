@@ -1,0 +1,8 @@
+{
+    "cookie": "__Host-authjs.csrf-token=caaacb75a071b48157fa2dd895443c1ee1b0b2152c8cb7d11fa94cf80e99b0b4|d8ff5d86677fb92330256f1bd429a662f64e394ab59880333cbcdf9d03a7d9ab; _ga=GA1.1.1630038947.1725903632; __Secure-authjs.callback-url=https:\/\/usdpick.io\/faucet; _ga_CR27JTZN69=GS1.1.1725903632.1.1.1725904437.0.0.0; __Secure-authjs.session-token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwia2lkIjoiQ25oMGVNYkFVQmxJeFNiY29GT0QzVFdGVjczSXZqNk5Jem9JYXlUZExpbkgwOWlRb190OC1lRFgwQ09yVmlwZWl4T3R4cUhRY0dPU3RqS3VxdTU0TncifQ..ftcWe3GCMNyQy6lAyXTDDQ.BJ2OJzrh3k48F_MLSsIguZGnON41yopFR_WnGZviDn8pCQdrPavo0hRHO1s6t7wyTw-QLJxSQCATUbLr8FdORv1_6tQDq6MCMvkx3m7EWOJxg7onPT-OKsbDM218R-v6KV_f4m6TwXVir33EqmB7qC0VHm4gNBRfjzojvAzE1qCa6Rz3TnuhIMlHqijIMm5BU7YEyJh-1c4uuNUtrJS3VXx4F_zxonR_FLDhzQtxo8Mguy_l45ixm06nuOvbiDgqKjlGpH868RnrqFtWGmiBIPtVF7UIFs1uWE4io98Xbq52OUMfpqXbcFBhaeT8xs8y9SE5wIMYcePblfwEpVXbMyIHdPYeD6U5OTN4aJTpHvpK-VNKf6UjEeZDcKWYYYcNihoCH-Uhet8-O8ctO4Y-TED_iM6iUJMjivBaqVRNY4UxxCuEPMsYchTs1PxEm9k7H7jE6Qe1IryrKNKgP9QxsKhjPyJ5KC9ecoplLOyquL7kH2Y-14VkfMT0IMmWrwRv.hHthi8AiA5hobay_hvYvW_Tm_qGs6jUsWfQu6GgYBMA",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 12; V2029) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/101.0.4951.40 Mobile Safari\/537.36",
+    "type": "1",
+    "multibot_apikey": "{\"endpoints\":[{\"url\":\"https:\\\/\\\/a.nel.cloudflare.com\\\/report\\\/v4?s=B\/gO9FDPhcSqCp6hPY7EvfXNvSxO8hbfOIYFaXINcyw1ufmHKuHURhVjTPVXLaoM\/\/wpoqhOIevxkEUnFvR+KtByN3ZS2Tb5zrZysSvlwvs1ojGoMyoBZv16h8qS\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "provider": "Multibot",
+    "view": "130924"
+}

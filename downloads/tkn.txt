@@ -1,0 +1,1 @@
+{"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=jwIF4H1sZJKsH9eZYKxrOvwF0UHjvXTKwKKzQNJl9q/Z8+5kaaikPut+83LSeI+6yIraar4koaqjIvOaWVmO0RzMhNdNnAoF43p5jawROpp88/e4iQbrJyyrIFL297lO"}],"group":"cf-nel","max_age":604800}
